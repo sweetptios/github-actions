@@ -14,6 +14,9 @@
             location = "container:"
             name = "part1">
             <FileRef
+               location = "group:/Users/sweetwork/Downloads/projects/github-actions/github-actions/workflow_dispatch.yaml">
+            </FileRef>
+            <FileRef
                location = "group:/Users/sweetwork/Downloads/projects/github-actions/github-actions/push.yaml">
             </FileRef>
             <FileRef
@@ -27,7 +30,7 @@
             </FileRef>
          </Group>
          <FileRef
-            location = "group:workflow_dispatch.yaml">
+            location = "group:multiple_event.yaml">
          </FileRef>
       </Group>
       <FileRef
