@@ -19,9 +19,12 @@
             <FileRef
                location = "group:/Users/sweetwork/Downloads/projects/github-actions/github-actions/pull_request.yaml">
             </FileRef>
+            <FileRef
+               location = "group:/Users/sweetwork/Downloads/projects/github-actions/github-actions/issues.yaml">
+            </FileRef>
          </Group>
          <FileRef
-            location = "group:issues.yaml">
+            location = "group:issue_comment.yaml">
          </FileRef>
       </Group>
       <FileRef
