@@ -22,9 +22,12 @@
             <FileRef
                location = "group:/Users/sweetwork/Downloads/projects/github-actions/github-actions/issues.yaml">
             </FileRef>
+            <FileRef
+               location = "group:/Users/sweetwork/Downloads/projects/github-actions/github-actions/issue_comment.yaml">
+            </FileRef>
          </Group>
          <FileRef
-            location = "group:issue_comment.yaml">
+            location = "group:workflow_dispatch.yaml">
          </FileRef>
       </Group>
       <FileRef
