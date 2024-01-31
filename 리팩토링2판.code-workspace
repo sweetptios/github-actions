@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "리팩토링2판",
+			"path": "../../리팩토링2판"
+		},
+		{
+			"name": "github-actions",
+			"path": "../../인프런-실전! GitHub Actions으로 CI:CD 시작하기/github-actions"
+		}
+	],
+	"settings": {}
+}
