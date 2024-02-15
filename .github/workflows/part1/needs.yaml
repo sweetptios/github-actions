@@ -1,4 +1,4 @@
-name: needs
+name: needs2
 on: push
 
 jobs:
