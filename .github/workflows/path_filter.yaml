@@ -1,0 +1,13 @@
+name: path-filter
+on:
+  push:
+    paths:
+    - './github/workflows/part1/*'
+    - '!./github/workflows/part1/push.yaml'
+
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+    steps:
+    - name: echo 
+      run: echo hello
