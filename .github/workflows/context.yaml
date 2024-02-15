@@ -3,7 +3,7 @@ on: workflow_dispatch
 
 jobs:
   context:
-    runs-on: ubuntu-test
+    runs-on: ubuntu-latest
     steps:
     - name: guthub context
       run: echo '${{ toJSON(github) }}'
